@@ -29,6 +29,7 @@ Unsure where to begin? Look for issues tagged with `good first issue`. These are
 
 1.  **Fork the repository:** Create your own copy of the project.
 2.  **Clone your fork:** `git clone https://github.com/YOUR_USERNAME/ai-agents-course.git`
+    - *Note: Replace `YOUR_USERNAME` with your own GitHub username.*
 3.  **Create a new branch:** `git checkout -b your-feature-name`
     - Use a descriptive branch name, like `fix-lesson-05-typo` or `feature-add-critic-agent`.
 4.  **Set up your environment:** Follow the instructions in the main `README.md`.
