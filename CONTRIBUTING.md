@@ -12,14 +12,14 @@ We have a [Code of Conduct](./CODE_OF_CONDUCT.md) to ensure our community is wel
 
 ### 🐛 Reporting Bugs
 
-If you find a bug in the course material or the code, please [open a bug report](https://github.com/yourusername/ai-agents-course/issues/new?template=bug_report.md). A good bug report includes:
+If you find a bug in the course material or the code, please [open a bug report](https://github.com/Avnish1505/ai-agents-course/issues/new?template=bug_report.md). A good bug report includes:
 - A clear title and description.
 - Steps to reproduce the bug.
 - What you expected to happen vs. what actually happened.
 
 ### ✨ Suggesting Enhancements
 
-Have an idea for a new feature, a new lesson, or an improvement to an existing one? [Open a feature request](https://github.com/yourusername/ai-agents-course/issues/new?template=feature_request.md).
+Have an idea for a new feature, a new lesson, or an improvement to an existing one? [Open a feature request](https://github.com/Avnish1505/ai-agents-course/issues/new?template=feature_request.md).
 
 ### 💻 Your First Code Contribution
 

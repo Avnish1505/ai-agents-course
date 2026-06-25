@@ -12,7 +12,7 @@
 </div>
 
 > **Built with:** Microsoft AutoGen v0.4+ | Azure OpenAI GPT-4o | Python 3.11+
-> **Author:** Avnish Singh | **Pen Name:** Anand Avnish
+> **Author:** Avnish Singh | **Pen Name:**  Avnish
 
 ---
 
@@ -54,7 +54,7 @@ Follow these steps to set up the project locally.
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/ai-agents-course
+git clone https://github.com/Avnish1505/ai-agents-course.git
 cd ai-agents-course
 
 # 2. Create and activate a virtual environment
